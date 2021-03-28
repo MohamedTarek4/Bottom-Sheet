@@ -1,6 +1,6 @@
-# log_in_with_showmodel_bottomsheet
+# log_in_with_bottomsheet
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
